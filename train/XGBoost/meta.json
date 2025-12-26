@@ -1,0 +1,4 @@
+{
+  "use_log_y": false,
+  "objective": "reg:absoluteerror"
+}
