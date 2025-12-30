@@ -4,7 +4,7 @@
 This project trains ML models to predict the `c_myRDF[2]` value from RDF-derived features.
 It supports a feed-forward neural network and an XGBoost regressor, plus scripts for
 evaluating errors and plotting results.
-![Uploading width_45.0_temp_314.0.png…]()
+[![Uploading width_45.0_temp_314.0.png…]()](https://github.com/Data-farmer-Harry/nanofluid_density_net/blob/main/figure/width_45.0_temp_314.0.png)
 
 
 ## Data format
