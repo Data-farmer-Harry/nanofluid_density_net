@@ -4,6 +4,8 @@
 This project trains ML models to predict the `c_myRDF[2]` value from RDF-derived features.
 It supports a feed-forward neural network and an XGBoost regressor, plus scripts for
 evaluating errors and plotting results.
+![Uploading width_45.0_temp_314.0.png…]()
+
 
 ## Data format
 The training/test data are stored in `data/*.npz` with a single array key `data`.
